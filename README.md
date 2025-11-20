@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1283" height="736" alt="image" src="https://github.com/user-attachments/assets/20b278db-000c-4303-be10-c0f145abc7a3" />
+
 ## Output
+<img width="1919" height="1046" alt="image" src="https://github.com/user-attachments/assets/7a0b667e-34b9-41cb-b848-8430bf354cb1" />
+
 ## Result
+Thus designed, simulated and analysed a full wave rectifier controlled by thyristors using MATLAB Simulink.
